@@ -2,13 +2,11 @@ package main
 
 import (
 	"crypto/elliptic"
+	"github.com/XuMuK666/lk"
+	//"github.com/hyperboloide/lk"
 	"io/ioutil"
 	"log"
 	"os"
-
-	"github.com/hyperboloide/lk"
-
-	"gopkg.in/alecthomas/kingpin.v2"
 )
 
 const (
